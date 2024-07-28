@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm konjikun.</h1>
+<h1 align="center">👋 Hi, I'm AllenShintani.</h1>
 
 <p align="left">
  
@@ -28,9 +28,9 @@
 <h3 align="left">Activities and Trophys:</h3>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=konjikun&theme=tokyonight&column=7)
-![](https://raw.githubusercontent.com/konjikun/konjikun/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![](https://raw.githubusercontent.com/konjikun/konjikun/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/konjikun/konjikun/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/konjikun/konjikun/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![](https://raw.githubusercontent.com/konjikun/konjikun/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+![](https://github-profile-trophy.vercel.app/?username=AllenShintani&theme=tokyonight&column=7)
+![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
