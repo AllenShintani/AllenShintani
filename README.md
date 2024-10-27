@@ -34,3 +34,65 @@
 ![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/3-stats.svg)
 ![](https://raw.githubusercontent.com/AllenShintani/AllenShintani/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+
+
+### Hi friends, I'm Allen 🌟
+
+
+![](https://github-readme-stats.vercel.app/api?username=AllenShintani&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenShintani&layout=compact)
+
+### Trophy 🏆
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AllenShintani&row=1&column=8)
+
+### Status
+
+- 📈 Hackson or Pichi History
+  + Yahoo! Digital Hack Day 2022 top10
+  + GIIKUTEN2023 Failal
+  + GIIKUTEN2024
+- 📕 Love Animation and Manga
+- 🔵 twitter: [@lumc_](https://twitter.com/allenganbaru)
+- 🥳 Born in 2003
+- ☕ Job status: Toyo University
+- Real world name: <span title="新谷アレン">Allen Shintani</span>
+
+### Job History
+
+- 2023/12-2024/05: Seil, inc. Web Engineer (Frontend)
+- 2024/05-2024/11: CIS, inc. Web Engineer (Frontend/Backend/Infrastructure)
+- 2024/08-2024/09: MC Digital, Inc. Intern ship, Web Engineer (Frontend)
+
+
+### Minds
+
+- Human is foolish especially myself.
+- Valuing communication brings out the best in people.
+- Be aware when I am taking up someone's time.
+
+### Skills
+
+- Frontend
+  - TypeScript, React, Next.js, trpc, vite, ...
+  - ESLint, Prettier
+  - Testing
+    - vitest
+  - Webpack
+- Backend
+  - Node.js, Fastify, Core.js ...
+  - [prisma](https://github.com/prisma/prisma), MySQL, Postgresql
+- CI/CD
+  - GitHub Actions, Circle CI
+- IaC
+  - terraform, aws sdk
+- Experienced Docker, Docker & Colima, ECS
+
+### Writings
+
+wait for my mood
+
+### Natural languages
+
+- Japanese: Native ヾ(^▽^*)))
+- English: alitle
