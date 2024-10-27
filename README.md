@@ -53,7 +53,7 @@
   + GIIKUTEN2023 Failal
   + GIIKUTEN2024
 - 📕 Love Animation and Manga
-- 🔵 twitter: [@lumc_](https://twitter.com/allenganbaru)
+- 🔵 twitter: [@arrenganbaru](https://twitter.com/allenganbaru)
 - 🥳 Born in 2003
 - ☕ Job status: Toyo University
 - Real world name: <span title="新谷アレン">Allen Shintani</span>
