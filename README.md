@@ -51,6 +51,7 @@
 - 📈 Hackson or Pichi History
   + Yahoo! Digital Hack Day 2022 top10
   + GIIKUTEN2023 Failal
+  + TSKaigi 2024 Speaker
   + GIIKUTEN2024
 - 📕 Love Animation and Manga
 - 🔵 twitter: [@arrenganbaru](https://twitter.com/allenganbaru)
