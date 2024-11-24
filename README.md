@@ -39,7 +39,6 @@
 ### Hi friends, I'm Allen 🌟
 
 
-![](https://github-readme-stats.vercel.app/api?username=AllenShintani&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenShintani&layout=compact)
 
 ### Trophy 🏆
