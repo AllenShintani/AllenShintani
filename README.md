@@ -62,7 +62,8 @@
 
 - 2023/12-2024/05: Seil, inc. Web Engineer (Frontend)
 - 2024/05-2024/11: CIS, inc. Web Engineer (Frontend/Backend/Infrastructure)
-- 2024/08-2024/09: MC Digital, Inc. Intern ship, Web Engineer (Frontend)
+- 2024/08-2024/09: MC Digital, Inc. Intern ship, Web Developer (Frontend)
+- 2025/04-: MC Digital, Inc. Web Developer (Frontend)
 
 
 ### Minds
