@@ -86,7 +86,7 @@
 - CI/CD
   - GitHub Actions, Circle CI
 - IaC
-  - terraform, aws sdk
+  - terraform, aws sdk, Pulumi
 - Experienced Docker, Docker & Colima, ECS
 
 ### Writings
