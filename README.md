@@ -55,7 +55,7 @@
 - 📕 Love Animation and Manga
 - 🔵 twitter: [@arrenganbaru](https://twitter.com/allenganbaru)
 - 🥳 Born in 2003
-- ☕ Job status: Toyo University
+- ☕ Job status: MCD3 Inc.
 - Real world name: <span title="新谷アレン">Allen Shintani</span>
 
 ### Job History
